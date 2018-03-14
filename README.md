@@ -19,7 +19,7 @@
      
      ![GMM_20](https://github.com/bobolee1239/cluster_colors_of_pic/blob/master/SamplePics/GMM_20.jpg)
      
-### Solving Other Clustering Problems
+### Solving  Other  Clustering  Problems
    * If you like to use this structure to deal another cluster problem, 
      you can customize your class to represent your point in GMM process.
      Just inheriant the class Point in 
