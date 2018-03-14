@@ -16,8 +16,8 @@ from scipy.stats import multivariate_normal
 from PIL import Image
 from resizeimage import resizeimage
 
-IN_FILE = '../SamplePic/img.jpg'
-OUT_FILE = '../SamplePic/Resize.jpg'
+IN_FILE = '../SamplePics/img.jpg'
+OUT_FILE = '../SamplePics/Resize.jpg'
 KMEANS_FILE = '../KMeans_'
 GMM_FILE = '../GMM_'
 # ------ Kmeans Base class -------------
