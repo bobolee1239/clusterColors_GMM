@@ -21,6 +21,7 @@
 ### Solving Other Clustering Problems
    * If you like to use this structure to deal another cluster problem, 
      you can customize your class to represent your point in GMM process.
-     Just import 
->    ./src/Kmeans.py 
-     and inheriant the class Point.
+     Just inheriant the class Point in 
+
+>         ./src/Kmeans.py 
+     
