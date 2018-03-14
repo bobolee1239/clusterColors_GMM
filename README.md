@@ -6,6 +6,7 @@
      our goal. If you want, you can save the result as a JPEG file.
      
    * **Results:**
+   
      _1. origin image:_ 
      
      ![Origin Image](https://github.com/bobolee1239/cluster_colors_of_pic/blob/master/SamplePics/img.jpg)
