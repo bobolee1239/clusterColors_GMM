@@ -26,9 +26,7 @@
 ### Solving  Other  Clustering  Problems
    * If you like to use this structure to deal another cluster problem, 
      you can customize your class to represent your point in GMM process.
-     Just inheriant the class Point in 
-
->    <space>$<space><space><space><space>./src/Kmeans.py    
+     Just inheriant the class Point in `$    ./src/Kmeans.py`    
      
 ### Things to take care while doing GMM
    * If members in a cluster is too dense, the covariance matrix would become
