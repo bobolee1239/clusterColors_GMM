@@ -26,3 +26,7 @@
 
 >         ./src/Kmeans.py 
      
+### Things to take care while doing GMM
+   * If members in a cluster is too dense, the covariance matrix would become
+     extremely singular. Therefore, we should add some isotropic noise into 
+     covariance matrix to prevent singularity and make the model robust to noise.
