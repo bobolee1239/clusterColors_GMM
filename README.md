@@ -8,15 +8,15 @@
    * **Results:**
      _1. origin image:_ 
      
-     ![Origin Image](https://drive.google.com/file/d/13S8cV9YfXFRKay0EmnpQ5a84QMON3cnx/view?usp=sharing)
+     ![Origin Image](https://github.com/bobolee1239/cluster_colors_of_pic/SamplePics/img.jpg)
      
      _2. GMM for 5 clusters:_
      
-     ![GMM_5](https://drive.google.com/file/d/1gc2aGpdxWU19tLl_v7ygZNbvsmwRhcJt/view?usp=sharing)
+     ![GMM_5](https://github.com/bobolee1239/cluster_colors_of_pic/SamplePics/GMM_5.jpg)
      
      _3. GMM for 20 clusters:_
      
-     ![GMM_20](https://drive.google.com/file/d/17gQ2Q8RSQqAEGqQYo6_4n47a267rWnRC/view?usp=sharing)
+     ![GMM_20](https://github.com/bobolee1239/cluster_colors_of_pic/SamplePics/GMM_20.jpg)
      
 ## Solving Other Clustering Problems
    * If you like to use this structure to deal another cluster problem, 
