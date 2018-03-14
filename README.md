@@ -7,7 +7,7 @@
      
    * **Results:**
    
-     _1. origin image:_ 
+     _1. original image:_ 
      
      ![Origin Image](https://github.com/bobolee1239/cluster_colors_of_pic/blob/master/SamplePics/img.jpg)
      
