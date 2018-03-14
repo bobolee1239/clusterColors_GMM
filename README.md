@@ -1,7 +1,7 @@
 # Cluster Colors of Picture
 
 ### Description
-   * Using Kmeans to find the means of GMM (Gaussian Mixture Model)
+   * Using Kmeans to find the means of GMM (*__Gaussian Mixture Model__*)
      to cluster colors in a picture, then run GMM algorithm to achieve
      our goal. If you want, you can save the result as a JPEG file.
      
