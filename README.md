@@ -11,11 +11,15 @@
      
      ![Origin Image](https://github.com/bobolee1239/cluster_colors_of_pic/blob/master/SamplePics/img.jpg)
      
-     _2. GMM for 5 clusters:_
+     _2. GMM for 3 clusters:_
+     
+     ![GMM_3](https://github.com/bobolee1239/cluster_colors_of_pic/blob/master/SamplePics/GMM_3.jpg)
+     
+     _3. GMM for 5 clusters:_
      
      ![GMM_5](https://github.com/bobolee1239/cluster_colors_of_pic/blob/master/SamplePics/GMM_5.jpg)
      
-     _3. GMM for 20 clusters:_
+     _4. GMM for 20 clusters:_
      
      ![GMM_20](https://github.com/bobolee1239/cluster_colors_of_pic/blob/master/SamplePics/GMM_20.jpg)
      
@@ -24,7 +28,7 @@
      you can customize your class to represent your point in GMM process.
      Just inheriant the class Point in 
 
->         ./src/Kmeans.py 
+>    $   ./src/Kmeans.py 
      
 ### Things to take care while doing GMM
    * If members in a cluster is too dense, the covariance matrix would become
